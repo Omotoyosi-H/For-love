@@ -20,14 +20,10 @@ top:80px;position:absolute;
   display: none;
   padding: 8px 14px;
   border-radius: 10px;
-  /* text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); */
 }
 
 #clock-box .STYLE2 {
-  font-family: 'Great Vibes', cursive;
-  font-size: 24px;
-  font-style: italic;
-  color: #FFB300; /* Warm Gold */
+  color: #FFB300; 
 }
 #clock-box a {font-size:28px;text-decoration:none;}
 #clock{margin-left:48px;}
@@ -37,7 +33,7 @@ top:80px;position:absolute;
 .hand{cursor:pointer;}
 .say{
   font-family:'Playfair Display',serif;
-  margin-left:5px;
+  margin-left:1px;
   font-size:18px;
   line-height: 1.8; 
   max-width: 420px;}
