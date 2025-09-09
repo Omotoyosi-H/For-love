@@ -24,4 +24,8 @@ top:80px;position:absolute;
       height: 100%;
     }
   }
+  html, body {
+    overflow-x: hidden; /* Prevent horizontal scroll */
+    overflow-y: auto;   /* Allow vertical scroll if necessary */
+  }
   
